@@ -1,0 +1,110 @@
+[
+  {
+    "id": "#3001",
+    "title": "Login Session Expired Automatically",
+    "status": "Open",
+    "priority": "High",
+    "customerName": "Imran Hossain",
+    "description": "User gets logged out automatically within a few minutes after login.",
+    "date": "03/01/2026"
+  },
+  {
+    "id": "#3002",
+    "title": "Card Payment Declined",
+    "status": "In-Progress",
+    "priority": "High",
+    "customerName": "Sumaiya Akter",
+    "description": "Customer’s debit card payment was declined despite sufficient balance.",
+    "date": "03/02/2026"
+  },
+  {
+    "id": "#3003",
+    "title": "Unable to Change Password",
+    "status": "Open",
+    "priority": "Medium",
+    "customerName": "Rakib Hasan",
+    "description": "User receives an unknown error while trying to change account password.",
+    "date": "03/03/2026"
+  },
+  {
+    "id": "#3004",
+    "title": "Billing Address Not Updating",
+    "status": "Open",
+    "priority": "Low",
+    "customerName": "Tania Sultana",
+    "description": "Customer updated billing address but old address still appears.",
+    "date": "03/04/2026"
+  },
+  {
+    "id": "#3005",
+    "title": "Mobile App Crash on Android",
+    "status": "In-Progress",
+    "priority": "High",
+    "customerName": "Shakil Ahmed",
+    "description": "App crashes immediately after launch on Android 13 devices.",
+    "date": "03/05/2026"
+  },
+  {
+    "id": "#3006",
+    "title": "Refund Not Received",
+    "status": "Open",
+    "priority": "Medium",
+    "customerName": "Nabila Rahman",
+    "description": "Refund requested 7 days ago but not yet processed.",
+    "date": "03/06/2026"
+  },
+  {
+    "id": "#3007",
+    "title": "OTP Not Sending",
+    "status": "Open",
+    "priority": "High",
+    "customerName": "Fahim Chowdhury",
+    "description": "Customer not receiving OTP for two-factor authentication.",
+    "date": "03/07/2026"
+  },
+  {
+    "id": "#3008",
+    "title": "Subscription Renewal Failed",
+    "status": "In-Progress",
+    "priority": "Medium",
+    "customerName": "Mahi Islam",
+    "description": "Auto-renewal failed even though payment method is valid.",
+    "date": "03/08/2026"
+  },
+  {
+    "id": "#3009",
+    "title": "Invoice Email Not Delivered",
+    "status": "Open",
+    "priority": "Low",
+    "customerName": "Sabbir Khan",
+    "description": "Customer did not receive invoice email after purchase.",
+    "date": "03/09/2026"
+  },
+  {
+    "id": "#3010",
+    "title": "Profile Picture Upload Error",
+    "status": "Open",
+    "priority": "Low",
+    "customerName": "Jannat Ara",
+    "description": "User gets upload failed error while updating profile picture.",
+    "date": "03/10/2026"
+  },
+  {
+    "id": "#3011",
+    "title": "Dashboard Data Not Loading",
+    "status": "In-Progress",
+    "priority": "High",
+    "customerName": "Adnan Karim",
+    "description": "Dashboard shows blank screen after login.",
+    "date": "03/11/2026"
+  },
+  {
+    "id": "#3012",
+    "title": "Order Status Not Updating",
+    "status": "Open",
+    "priority": "Medium",
+    "customerName": "Lamia Haque",
+    "description": "Order status remains pending even after successful delivery.",
+    "date": "03/12/2026"
+  }
+]
